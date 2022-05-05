@@ -1,0 +1,19 @@
+{
+  "name": "3er_entrega_proyecto_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcambursano/3ra_proyecto_final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcambursano/3ra_proyecto_final/issues"
+  },
+  "homepage": "https://github.com/mcambursano/3ra_proyecto_final#readme"
+}
